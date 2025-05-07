@@ -1,6 +1,7 @@
 # AI Prompt Engineering Handbook
 
 > The definitive resource for crafting effective prompts across different AI models and generations
+> Maintained by [ImagineAnything.ai](https://www.imagineanything.ai/)
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-prompt-handbook?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-prompt-handbook?style=social)
